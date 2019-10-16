@@ -17,7 +17,7 @@ void main()
 inli obj;
 float val;
 clrscr();
-cout<<"\nEnter a value";
+cout<<"\nEnter  value";
 cin>>val;
 cout<<"\nSqure of value is "<<obj.squ(val);
 cout<<"\nCube of value is "<<obj.cub(val);
